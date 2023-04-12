@@ -1,0 +1,10 @@
+# Idea
+.idea/
+B-OOP-LS23-CvicenieTemplate.iml
+target/
+
+# VS code
+.settings/
+.classpath
+.project
+.factorypath
